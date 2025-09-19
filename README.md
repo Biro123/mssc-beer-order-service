@@ -1,5 +1,3 @@
-[![CircleCI](https://dl.circleci.com/status-badge/img/circleci/L92YpTrVWsBeYMWtuE1E4F/HD8c5u6m3mYt6ey4UKkjzw/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/circleci/L92YpTrVWsBeYMWtuE1E4F/HD8c5u6m3mYt6ey4UKkjzw/tree/main)
-
 # MSSC Beer Order Service
 
 This repository contains source code examples used to support my on-line courses about the Spring Framework.
